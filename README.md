@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test repository
+Coursera repo for HTML, CSS and Javascript course.
